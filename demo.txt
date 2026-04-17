@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Practical assignment no.2
 create feature branches
+=======
+merge them and resolve conflicts
+>>>>>>> newbr2
